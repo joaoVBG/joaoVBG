@@ -1,4 +1,4 @@
-## Olá, bem-vindo(a) ao perfil do Brizollinha! 😁
+## Olá, eu sou o João Brizolla, seja bem-vindo(a) ao meu perfil! 😁
 
  <div>
    <a href="https://github.com/joaoVBG">
